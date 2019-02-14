@@ -2,4 +2,4 @@
   `npm run setup`
 
 ### START SERVER & CLIENT:
-  `npm run start`
+  `npm run dev`
